@@ -4,8 +4,6 @@ Username: user2
 
 Pin code: 2222
 
-
-
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
 
 
@@ -13,7 +11,5 @@ Pin code: 2222
 
 
 ***** FOR MORE PROJECTS :- https://projectworlds.in/ *****
-
-
 
 THANK YOU FOR DOWNLOADING :) 
