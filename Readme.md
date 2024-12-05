@@ -1,4 +1,4 @@
-#ATM SIMULATOR IN PYTHON
+## ATM SIMULATOR IN PYTHON ##
 
 Username: user2
 
